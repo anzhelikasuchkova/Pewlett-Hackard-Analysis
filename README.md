@@ -18,7 +18,6 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 ### Deliverable 1: The Number of Retiring Employees by Title: 72,458
 
-<img width="216" alt="retiring_titles" src="https://user-images.githubusercontent.com/93845867/153806419-2301ff7a-54e2-4e95-ad57-fd1831bf355f.png">
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
@@ -31,5 +30,7 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 >The number of roles filled should ideally be equal to the number of retirees. On the other hand, assuming that the technological progress affected existing roles, one should evaluate the positions first and see if there are any ways to automate the tasks performed in order to eliminate unnecessary processes and make use of the funds more efficiently. 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+<img width="216" alt="retiring_titles" src="https://user-images.githubusercontent.com/93845867/153806419-2301ff7a-54e2-4e95-ad57-fd1831bf355f.png">
 
 >Yes. 
