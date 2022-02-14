@@ -1,6 +1,14 @@
 # Pewlett-Hackard-Analysis
 
-## Overview of the analysis:
+## Overview of the Analysis:
+
+- Deliverable 1: The Number of Retiring Employees by Title
+- Deliverable 2: The Employees Eligible for the Mentorship Program
+- Deliverable 3: A written report on the employee database analysis (README.md)
+
+### Resources
+- Sofware: PostgreSQL, Visual Studio Code
+- Language: Python 3.9.7
 
 ## Results: 
 
