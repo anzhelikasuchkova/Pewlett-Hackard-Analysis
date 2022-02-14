@@ -28,7 +28,7 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
->The number of roles filled should ideally be equal to the number of retirees.
+>The number of roles filled should ideally be equal to the number of retirees. On the other hand, assuming that the technological progress affected existing roles, one should evaluate the positions first and see if there are any ways to automate the tasks performed in order to eliminate unnecessary processes and make use of the funds more efficiently. 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
