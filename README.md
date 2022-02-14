@@ -22,6 +22,8 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
+- 1,549 current employees meet mentorship requirements.
+
 ## Summary:
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
