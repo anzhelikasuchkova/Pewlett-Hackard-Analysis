@@ -16,10 +16,12 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 ## Results: 
 
-### Deliverable 1: The Number of Retiring Employees by Title: 72,458
+### Deliverable 1: The Number of Retiring Employees by Title: 
 
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
+
+<img width="747" alt="The Employees Eligible for the Mentorship Program" src="https://user-images.githubusercontent.com/93845867/153808867-e3d13953-9e3f-4c53-b6a4-223ae52adf66.png">
 
 - 1,549 current employees meet mentorship requirements.
 
