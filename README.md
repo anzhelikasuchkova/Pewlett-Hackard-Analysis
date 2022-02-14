@@ -18,8 +18,11 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 ### Deliverable 1: The Number of Retiring Employees by Title: 
 
+<img width="343" alt="Count of Retirement Eligible Employees" src="https://user-images.githubusercontent.com/93845867/153809760-7f9e341b-d5df-436b-8865-a57f15044177.png">
 
-### Deliverable 2: The Employees Eligible for the Mentorship Program
+**72,458 Employees are eligible for retirement.** 
+
+### Deliverable 2: The Employees Eligible for the Mentorship Program:
 
 <img width="747" alt="The Employees Eligible for the Mentorship Program" src="https://user-images.githubusercontent.com/93845867/153808867-e3d13953-9e3f-4c53-b6a4-223ae52adf66.png">
 
