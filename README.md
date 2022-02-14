@@ -23,6 +23,9 @@ Write a report that summarizes the analysis and helps prepare Bobby’s manager 
 
 <img width="747" alt="The Employees Eligible for the Mentorship Program" src="https://user-images.githubusercontent.com/93845867/153808867-e3d13953-9e3f-4c53-b6a4-223ae52adf66.png">
 
+<img width="343" alt="Meet Mentorship Requirement Count" src="https://user-images.githubusercontent.com/93845867/153809181-206b83ea-0f6b-40f0-acad-f76ce1f9000d.png">
+
+
 - 1,549 current employees meet mentorship requirements.
 
 ## Summary:
